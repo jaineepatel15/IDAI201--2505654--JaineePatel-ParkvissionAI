@@ -26,3 +26,4 @@ Testing and Deployment
 
 The model was tested on a held-out test set that was not used during training, as well as additional unseen images under different lighting conditions. Some limitations were observed with heavy shadows and extreme camera angles. The project was deployed by pushing the code, trained model, and requirements file to GitHub, then connecting the repository to Streamlit Community Cloud to generate a live public link.
 
+Streamlit: https://idai201--2505654--jaineepatel-parkvissionai-dxjebgeeahxr6ap9m6.streamlit.app/ 
